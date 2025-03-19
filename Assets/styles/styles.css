@@ -45,6 +45,9 @@
     transition: .8s ease-in-out;
     color: #6555ed;
   }
+#herosec{
+    padding-top:13.3vh;
+}
 #hero{
  border-radius: 50%;
  cursor: pointer;
