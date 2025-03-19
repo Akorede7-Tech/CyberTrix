@@ -49,9 +49,6 @@
  border-radius: 50%;
  cursor: pointer;
 } 
-#herosec{
-  padding-top: 12vh;
-} 
 #about{
   margin-top: -16vh;
 }
@@ -110,10 +107,6 @@ i:hover{
 #experts:hover{
   transform: translateY(-15px);
   transition: .6s ease-in-out;
-}
-#home{
-  top: 0;
-  position: sticky;
 }
 .loader{
   border: 10px solid #d1d1d1;
