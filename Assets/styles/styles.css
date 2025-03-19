@@ -36,6 +36,7 @@
     cursor: default;
     padding: 0;
     margin: 0;
+    background:#fff;
   }
   .list{
     color: #6495ed;
