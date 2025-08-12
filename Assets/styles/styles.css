@@ -149,7 +149,7 @@ i:hover{
   border-radius: 12px;
 }
 #connect:hover{
-  transition: .8s ease-in-out;
+  transition: .8s ease;
   align-items: center;
   transform: translateX(10px);
 }
